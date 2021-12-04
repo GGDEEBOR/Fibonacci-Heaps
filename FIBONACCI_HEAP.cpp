@@ -1,4 +1,8 @@
-#include <iomanip>
+/*
+****************    INTEGRANTES   *********************
+* Béjar Román Edson Bryan
+* Béjar Román Katherine Nikole
+*/
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
